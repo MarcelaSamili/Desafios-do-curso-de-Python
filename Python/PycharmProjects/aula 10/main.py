@@ -41,8 +41,8 @@ chances_do_boneco = [vazio, cabeca, tronco, braco_esquerdo, braco_direito, perna
 
 solo = 1
 junto = 2
-print('Digite [1] para jogar solo')
-print('Digite [2] para jogar com um amigo')
+print('Digite [1] para jogar solo') 
+print('Digite [2] para jogar com um amigo')#não fiz o modo dois ainda você pode fazer e melhorar esse código como usar as def e módulos é só clonar ! bom trabalho!
 modo = int(input('Qual modo quer jogar:'))
 letras_acertadas = ''
 letras_erradas = ''
