@@ -5,7 +5,7 @@ play_it('C:/Users/Marcela/Downloads/musica/flp.mp3.mp3')'''
 #esse modo não funciona mais
 '''import pygame
 pygame.init()
-pygame.mixer.music.load('flp.mp3.mp3')
+pygame.mixer.music.load('flp.mp3.mp3')#aqui em mp3, você pode escolhor o que quiser...
 pygame.mixer.music.play()
 pygame.event.wait()'''
 #tb tem esse modo que funciona
